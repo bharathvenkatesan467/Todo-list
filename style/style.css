@@ -1,0 +1,31 @@
+input,label{
+    padding: 0px;
+    text-align: center;
+}
+.d1{
+    border: 1px solid #102C57;
+    background-color:#102C57 ;
+    margin: 200px 600px;
+    color: white;
+    padding: 50px 0px;
+    border-radius: 5px;
+    
+}
+form{
+    font-size: larger;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+}
+body{
+    background-color: #1679AB;
+    
+}
+p{
+    background-color: #FFF5E1;
+    color:black;
+    position: fixed;
+    margin: 0px 20px 0px 630px;
+}
+.c2,c3{
+    text-decoration: line-through;
+}
